@@ -1,0 +1,90 @@
+.logo{
+  width: 80px;
+  border-radius: 15%;
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+body{
+  background-color: #3273dc;
+  text-align: center;
+  font-family: 'Questrial', sans-serif;
+}
+input{
+  width: 100%;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 7px;
+  color: #eaeaea;
+  width: 7%;
+  margin: 100px auto;
+}
+
+/* HEAD SECTION */
+#head{
+  background-color: #005baa;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+#head-content{
+  padding: 100px 0 0 0;
+  background-color: #005baa;
+}
+.carousel-img{
+  width: 100%;
+}
+
+
+/* MODALS */
+.modal-content{
+  text-align: left;
+}
+
+/* ABOUT SECTION */
+.about-header{
+  color: #fff200;
+}
+.about-container{
+  padding: 3% 15%;
+  background-image: linear-gradient(#005baa, #3273dc);
+  border-style: hidden;
+}
+.about-content{
+  color: #f4f9f4;
+}
+
+
+/* CONTACT US */
+#contact{
+  padding: 50px;
+  text-align: center;
+  background-color: #3273dc;
+}
+.contact-header{
+  color: #fff200;
+}
+.card-body{
+  text-align: left;
+}
+.icon{
+  color: #3273dc;
+}
+.icon:hover{
+  color: #005baa;
+}
+.contact{
+  text-indent: 2.5rem;
+}
+.contact-column{
+  padding: 3% 2%;
+}
+
+#footer{
+  color: #f4f9f4;
+  text-align: center;
+  padding: 5% 15%;
+  background-image: linear-gradient(#3273dc, #f4f9f4);
+}
